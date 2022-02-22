@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "Post App",
+    "description": "",
+    "version": "sl28n01k",
+    "id": "ckzxxhhk5132144401s6a5k5pyis",
+    "url": "https://app.amplication.com/ckzxxhhk5132144401s6a5k5pyis",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckzxxhhk5132144401s6a5k5pyis",
+      "authProvider": "Jwt"
+    }
+  }
+}
